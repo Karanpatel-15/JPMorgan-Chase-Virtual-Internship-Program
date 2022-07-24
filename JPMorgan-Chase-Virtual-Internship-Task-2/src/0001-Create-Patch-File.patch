@@ -1,7 +1,8 @@
-From 9c6240aa2ba5ec1812ece4e756eeb412639b42ee Mon Sep 17 00:00:00 2001
-From: Karthik Malyala <karthik.malyala@outlook.com>
-Date: Tue, 15 Dec 2020 00:33:57 -0500
+From ffaeacc2cdfd56fa779a5ea3fd1a6cca41d6cefd Mon Sep 17 00:00:00 2001
+From: Karan Patel <inbox.kpatel@gmail.com>
+Date: Sun, 24 Jul 2022 00:33:57 -0500
 Subject: [PATCH] Create Patch File
+
 
 ---
  package-lock.json | 169 ++++++++++++++++++++++++++++++++++++++++------
